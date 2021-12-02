@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('../assets/fonts/RobotoMono-Regular.woff2') format('woff2'),
+        url('../assets/fonts/RobotoMono-Regular.woff') format('woff'),
+        url('../assets/fonts/RobotoMono-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Title font';
+    src: url('../assets/fonts/archyedt-bold-webfont.woff2') format('woff2'),
+         url('../assets/fonts/archyedt-bold-webfont.woff') format('woff'),
+         url('../assets/fonts/archyedt-bold-webfont.ttf') format('truetype');
+}
